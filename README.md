@@ -3,5 +3,4 @@ I'm Korean.
 I'm studying in Hong Kong.
 I’m interested in C++.
 I’m currently learning Java.
-I’m looking to collaborate on ...
 Reach me through sunghakheo@gmail.com.
